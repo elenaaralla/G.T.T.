@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 
-headers:
+header:
   readme.md
   test.md
